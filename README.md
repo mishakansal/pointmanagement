@@ -11,7 +11,7 @@ To quickly begin local development, follow these steps.
 
 1. Clone the repository
 ```
-git clone https://gitlab.com/SPARKBusinessWorks/spark-select.git
+git clone https://github.com/mishakansal/pointmanagement.git
 
 or you can directly download it
 ```
