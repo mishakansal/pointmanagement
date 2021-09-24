@@ -1,4 +1,4 @@
-# pointmanagement
+
 # Point system assignment
 
 # Getting Started
